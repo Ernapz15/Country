@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Country Apps</string>
+    <string name="Country">Negara</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="content_text">Keterangan</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="profile_name">Ernawati Purnama Zebua</string>
+    <string name="profile_email">ernawatipurnama150302@gmail.com</string>
+    <string name="OFF_Favorite">OFF Favorite</string>
+</resources>
